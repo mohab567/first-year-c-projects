@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1450454966 source:c:\users\dell\desktop\c projects\final chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"chess.h"
+
+1450453431 c:\users\dell\desktop\c projects\final chess\chess.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1043881680 c:\users\dell\desktop\c projects\final chess\book.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"defs.h"
+	"data.h"
+	"protos.h"
+
+1043878260 c:\users\dell\desktop\c projects\final chess\defs.h
+
+1043878140 c:\users\dell\desktop\c projects\final chess\data.h
+
+1043879640 c:\users\dell\desktop\c projects\final chess\protos.h
+

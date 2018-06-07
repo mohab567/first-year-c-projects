@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449138327 source:c:\users\dell\desktop\c projects\matrix multiply\main.c
+	<stdio.h>
+	<stdlib.h>
+
